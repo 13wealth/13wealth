@@ -1,4 +1,4 @@
-👋 Hi, I'm WEALTHSMITH!
+👋 Hi, I'm Smith!
 
 Welcome to my GitHub! I'm a curious and driven **Software and Web Developer** currently studying software development.
 I am passion about building clean, scalable systems and exploring the world of **software engineering** and **big data**.
