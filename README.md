@@ -5,7 +5,7 @@ I am passion about building clean, scalable systems and exploring the world of *
 
 ---
 
-##🚀 Summary
+## 🚀 Summary
 
 - 🔭 I'm currently learning full-stack development, data structures & algorithms, and cloud computing.
 - 📚 Diving deeper into topics like:
