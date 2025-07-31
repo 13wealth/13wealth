@@ -1,13 +1,13 @@
 👋 Hi, I'm Smith!
 
-Welcome to my GitHub! I'm a curious and driven **Software and Web Developer** currently studying software development.
+Welcome to my GitHub! I'm a curious and driven **Software and Web Developer**.
 I am passion about building clean, scalable systems and exploring the world of **software engineering** and **big data**.
 
 ---
 
 ## 🚀 Summary
 
-- 🔭 I'm currently learning full-stack development, data structures & algorithms, and cloud computing.
+- 🔭 I'm a full-stack developer in alighnmrnt to data structures & algorithms, and cloud computing.
 - 📚 Diving deeper into topics like:
   - System design and architecture
   - Distributed systems
