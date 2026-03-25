@@ -1,36 +1,36 @@
-👋 Hi, I'm Smith!
+Hi, I'm Smith!
 
 Welcome to my GitHub! I'm a curious and driven **Software and Web Developer**.
 I am passion about building clean, scalable systems and exploring the world of **software engineering** and **big data**.
 
 ---
 
-## 🚀 Summary
+## Summary
 
-- 🔭 I'm a full-stack developer in alighnmrnt to data structures & algorithms, and cloud computing.
-- 📚 Diving deeper into topics like:
+- I'm a full-stack developer in alighnmrnt to data structures & algorithms, and cloud computing.
+- Diving deeper into topics like:
   - System design and architecture
   - Distributed systems
   - Data pipelines and large-scale data processing
-- 🌱 Constantly exploring tools and technologies like:
+- Constantly exploring tools and technologies like:
   - Python, JavaScript, Java
   - React, Node.js, Express
   - MongoDB, PostgreSQL, and Firebase
   - Hadoop, Spark (starting my journey here!)
-- 🛠 I love solving problems and building projects that challenge me to grow.
+- I love solving problems and building projects that challenge me to grow.
 
 ---
 
-## 🧠 Interests & Goals
+## Interests & Goals
 
-- 📊 **Big Data**: I'm fascinated by how we can store, process, and gain insights from massive data sets.
-- 🧩 **Software Engineering**: Clean code, scalable systems, and smart design patterns excite me.
-- 🌐 **Web Development**: From front-end interfaces to robust back-end APIs, I enjoy crafting seamless digital experiences.
-- ☁️ **Cloud Services**: Learning how to deploy, scale, and monitor applications in the cloud.
+- **Big Data**: I'm fascinated by how we can store, process, and gain insights from massive data sets.
+- **Software Engineering**: Clean code, scalable systems, and smart design patterns excite me.
+- **Web Development**: From front-end interfaces to robust back-end APIs, I enjoy crafting seamless digital experiences.
+- **Cloud Services**: Learning how to deploy, scale, and monitor applications in the cloud.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```plaintext
 Languages:     Python, JavaScript (ES6+), Java, SQL
